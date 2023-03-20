@@ -1,0 +1,7 @@
+changes done 
+
+-at product model 
+    -size to age 
+    -name to title
+    -desc add
+    -phone add
